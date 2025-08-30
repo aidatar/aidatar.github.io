@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
+title: "Photography: Objects on the Ground"
+description: "A series capturing overlooked objects encountered while walking."
+img: assets/img/photo_objects_cover.jpg
+importance: 2
 category: fun
 ---
 
