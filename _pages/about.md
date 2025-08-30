@@ -2,7 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: "<span>
+  <a href='https://informatics.ed.ac.uk/ukri-cdt-in-natural-language-processing'>UKRI CDT in NLP</a> | 
+  <a href='https://www.ed.ac.uk/informatics'>School of Informatics, Edinburgh</a> | 
+  <a href='https://www.ed.ac.uk'>University of Edinburgh</a>
+</span>
+<br>
+<span>Computational Psycholinguistics & NLP</span>"
 
 profile:
   align: right
