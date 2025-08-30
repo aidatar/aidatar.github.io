@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-06-05
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I presented my fourth and final annual review [poster](/assets/pdf/CDTSummit2025.pdf) at the UKRI AI CDTs in NLP Joint Partners’ Summit, Edinburgh (2025).

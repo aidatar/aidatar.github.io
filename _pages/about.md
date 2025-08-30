@@ -16,7 +16,7 @@ profile:
   more_info: >
     <p>with Amadeus | 📷 by Bob</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -25,7 +25,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -34,6 +34,13 @@ I’m a doctoral researcher exploring how people and language models process sub
 
 I'm completing my Ph.D. in Informatics (Natural Language Processing) at the University of Edinburgh, supervised by Prof. [Martin Corley](https://martincorley.org/) and Dr. [Patrick Sturt](https://scholar.google.co.uk/citations?user=tINgWG4AAAAJ&hl=en). My doctoral research is the first to examine written disfluencies and their relation to nonliteral meaning in a computational psycholinguistics framework. In my research, I’m not aiming to make language models disfluent or sarcastic, but to improve their understanding of psycholinguistic features like written disfluencies and nonliteral meaning.
 
-Currently, my work centers on **predictive processing**, **pragmatic variability**, **communicative difficulty**, and **alignment strategies in large and small language models**. Building on this, I'm expanding into context-aware AI evaluation, multimodal integration, and multilingual variation.
+Research directions:
+- **predictive processing**
+- **pragmatic variability**
+- **communicative difficulty**
+- **alignment strategies in large and small language models**
+- **context-aware AI evaluation**
+- **multimodal integration**
+- **multilingual variation**
 
-My path into disfluency research began during my Genreal Psychology dissertation at the University of Tabriz, supervised by Dr. [Mostafa Zarean](https://scholar.google.com/citations?user=F1SRyf8AAAAJ&hl=en) and Prof. [Jana Javakhishvili](https://scholar.google.com/citations?user=VkFUS-wAAAAJ&hl=en). Interviewing psychotrauma survivors, I became interested in intentional disfluencies and the potential meaning behind these interruptions. That project was the first to compare cognitive, behavioral, and interpersonal emotion regulation strategies in individuals with and without sexual traumatic experiences, and it continues to shape the way I approach communication in both human and machine contexts.
+My path into disfluency research began during my General Psychology dissertation at the University of Tabriz, supervised by Dr. [Mostafa Zarean](https://scholar.google.com/citations?user=F1SRyf8AAAAJ&hl=en) and Prof. [Jana Javakhishvili](https://scholar.google.com/citations?user=VkFUS-wAAAAJ&hl=en). Interviewing psychotrauma survivors, I became interested in intentional disfluencies and the potential meaning behind these interruptions. That project was the first to compare cognitive, behavioral, and interpersonal emotion regulation strategies in individuals with and without sexual traumatic experiences, and it continues to shape the way I approach communication in both human and machine contexts.
