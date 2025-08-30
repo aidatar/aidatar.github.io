@@ -401,73 +401,40 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-a-simple-inline-announcement",
+          title: 'A simple inline announcement.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-presented-my-fourth-and-final-annual-review-poster-at-the-ukri-ai-cdts-in-nlp-joint-partners-summit-edinburgh-2025",
+          title: 'I presented my fourth and final annual review poster at the UKRI AI...',
           description: "",
           section: "News",},{id: "projects-multilingual-disfluencies",
           title: 'Multilingual Disfluencies',
           description: "Collaboration with Julian Hough on multilingual disfluencies using DUEL and deep_disfluency.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/julian_disfluencies/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-persian-j-soap-ii-interview-package",
+          title: 'Persian J-SOAP-II Interview Package',
+          description: "Curation of a Persian version of J-SOAP-II for assessing juvenile sex offenders.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/persian_jsoap/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/photography_al/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/photography_sun/";
-            },},{id: "projects-photography-objects-on-the-ground",
-          title: 'Photography: Objects on the Ground',
+            },},{id: "projects-photography",
+          title: 'Photography',
           description: "A series capturing overlooked objects encountered while walking.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/photography_yer/";
+              window.location.href = "/projects/photography/";
             },},{
-        id: 'social-email',
-        title: 'email',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/f-a-s-tarighat", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=JBIFAB0AAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
