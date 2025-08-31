@@ -2,96 +2,150 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Aida Tarighat
+    - name: LinkedIn
+      value: www.linkedin.com/in/f-a-s-tarighat
+    - name: Description
+      value: Final-year doctoral candidate in the UKRI CDT in NLP at the University of Edinburgh, working at the intersection of computational psycholinguistics, cognitive science, and NLP. Research combines behavioral experiments, corpus analysis, and computational modeling to investigate written disfluencies, predictive processing, and context-aware dialogue systems. Methods: Eye-tracking, self-paced reading, survey design, R, Python. Applications: Conversational AI, e-mental health, education tech.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. Informatics: Natural Language Processing
+      institution: University of Edinburgh, U.K.
+      year: 2021-2025 expected
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Thesis: Written Disfluencies and Nonliteral Meaning in Natural Language Processing: Evidence from Behavioral and Computational Data
+        - Supervisors: Martin Corley, Patrick Sturt
+        - Expected submission: September 2025; anticipated defense: Nov/Dec 2025
+    - title: M.Sc. General Psychology
+      institution: University of Tabriz, Iran
+      year: 2018-2021
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+        - Thesis: Comparing the Aspects of Emotional Regulation in Individuals with and without Sexual Traumatic Experiences
+        - Supervisors: Mostafa Zarean, Darejan Javakhishvili
+    - title: M.A. English Language and Literature
+      institution: Shahid Chamran University, Iran
+      year: 2010-2013
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Thesis: A Social Psychological Analysis of Power Distribution in José Saramago’s Blindness
+        - Supervisors: Mahmoud Daram, Saleh Hosseini
+    - title: B.A. English Language and Literature
+      institution: Shahid Chamran University, Iran
+      year: 2006-2010
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Publications
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: In Preparation
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Tarighat, A., Sturt, P., Corley, M. It’s Umm Hard to Process but Not Hard to Evaluate: Written Disfluency Affects Humans and Language Models Differently. Cognitive Science.
+        - Tarighat, A., Zarean, M., & Javakhishvili, J. Difficulties in Emotion Regulation Strategies: The Role of Sexual Traumatic Experiences. European Journal of Psychotraumatology.
+        - Tarighat, A., & Zarean, M. Contemporary directions in emotion management: a conceptual review. Motivation and Emotion.
+    - title: Published
       items:
-        - Description 1.
-        - Description 2.
+        - Tarighat, A., Sturt, P., Corley, M. (2024). Perspectives on Language Model and Human Handling of Written Disfluency and Nonliteral Meaning. SemDial (Trentologue).
+        - Kapron-King, A., Fletcher, L., Tarighat, A., Droop, S., Dobreva, R., Cummins, C., & Rohde, H. (2024). Tell it like it (usually) is(n't): Speakers’ mention of instruments in Reddit corpus reflects instrument (a)typicality. RAILS.
+        - Hew, J., Tarighat, A., Corley, M., Horne, Z. (2024). Examining structural and semantic predictors of announced sarcasm on r/AskReddit. CogSci Proceedings.
+        - ... # continue with all entries from CV
 
-- title: Other Interests
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Ph.D. Graduate Assistant
+      institution: University of Edinburgh
+      year: 2023-Present
+      description:
+        - Psycholinguistics project supervision of undergraduate students
+    - title: Industry Collaborator, Mentor 360
+      institution: UK-based Health and Wellbeing Startup
+      year: 2025
+      description:
+        - Human-in-the-loop system integrating SLM for hesitation and sarcasm detection
+    - title: M.Sc. Graduate Assistant
+      institution: University of Tabriz
+      year: 2018-2021
+      description:
+        - Standardized psychology questionnaire translation and tailoring
+    - title: Freelance English Language Instructor
+      year: 2006-Present
+    - title: International Affairs Manager
+      institution: Mashal Tarigh Tejarat Aria Trading Company
+      year: 2009-2010
+
+- title: Workshops and Conferences
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - UKRI AI CDTs in NLP Joint Partners’ Summit, Edinburgh (2025) - Poster presenter
+    - SemDial 28th Workshop, Trento, Italy (2024) - Speaker
+    - CLASP LSD, Gothenburg, Sweden (2023) - Poster presenter
+    - ... # include all others
+
+- title: Awards and Scholarships
+  type: list
+  contents:
+    - UKRI CDT in NLP Scholarship, University of Edinburgh, 2021-2025
+    - Exceptional Talents Award, Shahid Chamran University, 2010
+
+- title: Training, Skills, and Interests
+  type: nested_list
+  contents:
+    - title: Ongoing Training
+      items:
+        - User Experience (UX) Design
+        - LLM-based Application Development
+    - title: Selected Courses (Ph.D.)
+      items:
+        - Univariate & Multivariate Statistical Modeling in R
+        - Computer Programming for Speech and Language Processing
+        - Pragmatics
+        - ... # continue
+    - title: Programming
+      items:
+        - Python, R, JavaScript
+    - title: Experimentation & Research
+      items:
+        - Eye-tracking, self-paced reading, survey design, Qualtrics, E-Prime, OpenSesame
+    - title: Languages
+      items:
+        - English (Fluent), Persian (Native), Azerbaijani (Native), Turkish (Upper-Intermediate), French (A1), German (A1), Suret (Elementary)
+    - title: Professional Hobbies
+      items:
+        - Photography, Interior Architecture, Ceramic Dinnerware & Practical Artifacts Design
+
+- title: Invited Talks
+  type: list
+  contents:
+    - CDT Talks, Edinburgh (2024) - Language Model and Human Handling of Written Disfluency and Nonliteral Meaning
+    - Brain, Cognition, and Development Seminar, Edinburgh (2024) - Written Sarcasm in Online Settings
+    - ... # continue
+
+- title: Volunteering and Community Service
+  type: list
+  contents:
+    - SEKHAVAT Coordination Center for the Benefactors of Urmia (2018-2021)
+    - Omid Hospital, Urmia (2013-2015)
+    - ... # continue
+
+- title: Community Engagement
+  type: list
+  contents:
+    - Interdisciplinary Writing Retreat for Doctoral Researchers, University of Edinburgh (2024)
+    - Nature Retreats at Firbush (2022-2023)
+    - Informatics Postgraduate Walk + Picnic (2023)
+    - AMLaP Volunteer (2024)
+
+- title: Research Trajectory Note
+  type: list
+  contents:
+    - Gap in Academic Training: Cared for mother during extended cancer treatment; returned with greater focus and resilience.
+    - Reason Behind Field Changes: Literature → Psychology → Computational Modeling; deliberate expansion to broaden expertise.
+
+- title: References
+  type: list
+  contents:
+    - Prof. Martin Corley, School of PPLS, University of Edinburgh (Email available upon request)
+    - Dr. Patrick Sturt, School of PPLS, University of Edinburgh (Email available upon request)
+    - Prof. Walid Magdy, School of Informatics, University of Edinburgh (Email available upon request)
+    - Dr. Daniel Mirman, School of PPLS, University of Edinburgh (Email available upon request)
+    - Dr. Mostafa Zarean, Department of Psychology, University of Tabriz (Email available upon request)
