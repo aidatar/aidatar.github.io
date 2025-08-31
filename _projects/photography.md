@@ -2,7 +2,7 @@
 layout: page
 title: "Photography"
 description: 
-img: kelebek.jpg
+img: /assets/img/kelebek.jpg
 importance: 1
 category: fun
 ---
