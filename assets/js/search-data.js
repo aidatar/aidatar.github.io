@@ -398,11 +398,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-i-presented-my-fourth-and-final-annual-review-poster-at-the-ukri-ai-cdts-in-nlp-joint-partners-summit-edinburgh-2025",
+            },},{id: "news-i-presented-my-fourth-and-final-annual-review-poster-at-the-ukri-ai-cdts-in-nlp-joint-partners-summit-edinburgh-2025",
           title: 'I presented my fourth and final annual review poster at the UKRI AI...',
+          description: "",
+          section: "News",},{id: "news-i-m-pleased-to-share-that-i-passed-my-fourth-and-final-anual-review-with-very-good",
+          title: 'I’m pleased to share that I passed my fourth and final anual review...',
           description: "",
           section: "News",},{id: "news-i-will-give-an-oral-presentation-of-our-latest-work-at-the-british-psychological-society-scottish-branch-postgraduate-annual-conference-2025-in-late-september",
           title: 'I will give an oral presentation of our latest work at the British...',
