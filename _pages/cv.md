@@ -1,11 +1,11 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /assets/pdf/AidaTarighat_CV.pdf
 title: cv
 nav: true
 nav_order: 1
 cv_pdf: AidaTarighat_CV.pdf # you can also use external links here
-description: NB, my official records list my full name as Fatemeh Samadzadeh Tarighat; however, I currently publish under Aida Tarighat.
+description: 
 toc:
   sidebar: left
 ---
