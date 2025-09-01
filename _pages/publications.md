@@ -2,7 +2,15 @@
 layout: page
 permalink: /publications/
 title: publications
-description: "<strong>NB:</strong> my official records list my full name as Fatemeh Samadzadeh Tarighat; however, I currently publish under Aida Tarighat.<br><br>This list includes work in preparation, peer-reviewed papers, abstracts, and posters."
+description: >
+  <strong>
+    NB: my official records list my full name as Fatemeh Samadzadeh Tarighat; however, I currently publish under Aida Tarighat.<br><br>
+    This list includes work in preparation, peer-reviewed papers, abstracts, and posters.
+  </strong>
+  <br><hr>
+  <p style="font-size: small; color: gray;">
+    WIP icon © <a href="https://www.flaticon.com/free-icons/work-in-progress" title="work in progress icons">Work in progress icons created by Freepik - Flaticon</a>
+  </p>
 nav: true
 nav: true
 nav_order: 1
