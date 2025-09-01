@@ -392,13 +392,13 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-i-presented-my-fourth-and-final-annual-review-poster-at-the-ukri-ai-cdts-in-nlp-joint-partners-summit-in-edinburgh",
-          title: 'I presented my fourth and final annual review poster at the UKRI AI...',
+          title: '📊 I presented my fourth and final annual review poster at the UKRI...',
           description: "",
           section: "News",},{id: "news-i-m-pleased-to-share-that-i-passed-my-fourth-and-final-anual-review-with-very-good",
-          title: 'I’m pleased to share that I passed my fourth and final anual review...',
+          title: '🌟 I’m pleased to share that I passed my fourth and final anual...',
           description: "",
           section: "News",},{id: "news-i-will-give-an-oral-presentation-of-our-latest-work-at-the-british-psychological-society-scottish-branch-postgraduate-annual-conference-2025-in-late-september",
-          title: 'I will give an oral presentation of our latest work at the British...',
+          title: '🎤 I will give an oral presentation of our latest work at the...',
           description: "",
           section: "News",},{id: "projects-multilingual-disfluencies",
           title: 'Multilingual Disfluencies',
