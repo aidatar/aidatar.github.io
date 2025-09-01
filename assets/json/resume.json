@@ -4,13 +4,7 @@
     "label": "Final-year Doctoral Researcher",
     "image": "",
     "summary": "Final-year doctoral candidate in the UKRI CDT in NLP at the University of Edinburgh, working at the intersection of computational psycholinguistics, cognitive science, and NLP. Research combines behavioral experiments, corpus analysis, and computational modeling to investigate written disfluencies, predictive processing, and context-aware dialogue systems. Methods: Eye-tracking, self-paced reading, survey design, R, Python. Applications: Conversational AI, e-mental health, education tech.",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "location": "Edinburgh, UK",
     "profiles": [
       {
         "network": "LinkedIn",
