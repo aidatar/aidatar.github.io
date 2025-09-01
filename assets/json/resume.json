@@ -1,125 +1,197 @@
 {
-  "General Information": {
-    "Full Name": "Aida Tarighat",
-    "LinkedIn": "www.linkedin.com/in/f-a-s-tarighat",
-    "Description": "Final-year doctoral candidate in the UKRI CDT in NLP at the University of Edinburgh, working at the intersection of computational psycholinguistics, cognitive science, and NLP. Research combines behavioral experiments, corpus analysis, and computational modeling to investigate written disfluencies, predictive processing, and context-aware dialogue systems. Methods: Eye-tracking, self-paced reading, survey design, R, Python. Applications: Conversational AI, e-mental health, education tech."
-  },
-  "Education": [
-    {
-      "Degree": "Ph.D. Informatics: Natural Language Processing",
-      "Institution": "University of Edinburgh, U.K.",
-      "Year": "2021-2025 expected",
-      "Description": [
-        "Thesis: Written Disfluencies and Nonliteral Meaning in Natural Language Processing: Evidence from Behavioral and Computational Data",
-        "Supervisors: Martin Corley, Patrick Sturt",
-        "Expected submission: September 2025; anticipated defense: Nov/Dec 2025"
-      ]
+  "basics": {
+    "name": "Aida Tarighat",
+    "label": "Final-year Doctoral Researcher",
+    "image": "",
+    "summary": "Final-year doctoral candidate in the UKRI CDT in NLP at the University of Edinburgh, working at the intersection of computational psycholinguistics, cognitive science, and NLP. Research combines behavioral experiments, corpus analysis, and computational modeling to investigate written disfluencies, predictive processing, and context-aware dialogue systems. Methods: Eye-tracking, self-paced reading, survey design, R, Python. Applications: Conversational AI, e-mental health, education tech.",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
     },
-    {
-      "Degree": "M.Sc. General Psychology",
-      "Institution": "University of Tabriz, Iran",
-      "Year": "2018-2021",
-      "Description": [
-        "Thesis: Comparing the Aspects of Emotional Regulation in Individuals with and without Sexual Traumatic Experiences",
-        "Supervisors: Mostafa Zarean, Darejan Javakhishvili"
-      ]
-    },
-    {
-      "Degree": "M.A. English Language and Literature",
-      "Institution": "Shahid Chamran University, Iran",
-      "Year": "2010-2013",
-      "Description": [
-        "Thesis: A Social Psychological Analysis of Power Distribution in José Saramago’s Blindness",
-        "Supervisors: Mahmoud Daram, Saleh Hosseini"
-      ]
-    },
-    {
-      "Degree": "B.A. English Language and Literature",
-      "Institution": "Shahid Chamran University, Iran",
-      "Year": "2006-2010"
-    }
-  ],
-  "Publications": {
-    "In Preparation": [
-      "Tarighat, A., Sturt, P., Corley, M. It’s Umm Hard to Process but Not Hard to Evaluate: Written Disfluency Affects Humans and Language Models Differently. Cognitive Science.",
-      "Tarighat, A., Zarean, M., & Javakhishvili, J. Difficulties in Emotion Regulation Strategies: The Role of Sexual Traumatic Experiences. European Journal of Psychotraumatology.",
-      "Tarighat, A., & Zarean, M. Contemporary directions in emotion management: a conceptual review. Motivation and Emotion."
-    ],
-    "Published": [
-      "Tarighat, A., Sturt, P., Corley, M. (2024). Perspectives on Language Model and Human Handling of Written Disfluency and Nonliteral Meaning. SemDial (Trentologue).",
-      "Kapron-King, A., Fletcher, L., Tarighat, A., Droop, S., Dobreva, R., Cummins, C., & Rohde, H. (2024). Tell it like it (usually) is(n't): Speakers’ mention of instruments in Reddit corpus reflects instrument (a)typicality. RAILS.",
-      "Hew, J., Tarighat, A., Corley, M., Horne, Z. (2024). Examining structural and semantic predictors of announced sarcasm on r/AskReddit. CogSci Proceedings."
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Aida Tarighat",
+        "url": "https://www.linkedin.com/in/f-a-s-tarighat"
+      }
     ]
   },
-  "Professional Experience": [
+  "work": [
     {
-      "Title": "Ph.D. Graduate Assistant",
-      "Institution": "University of Edinburgh",
-      "Year": "2023-Present",
-      "Description": ["Psycholinguistics project supervision of undergraduate students"]
-    },
-    {
-      "Title": "Industry Collaborator, Mentor 360",
-      "Institution": "UK-based Health and Wellbeing Startup",
-      "Year": "2025",
-      "Description": ["Human-in-the-loop system integrating SLM for hesitation and sarcasm detection"]
-    },
-    {
-      "Title": "M.Sc. Graduate Assistant",
-      "Institution": "University of Tabriz",
-      "Year": "2018-2021",
-      "Description": ["Standardized psychology questionnaire translation and tailoring"]
-    },
-    {
-      "Title": "Freelance English Language Instructor",
-      "Year": "2006-Present"
-    },
-    {
-      "Title": "International Affairs Manager",
-      "Institution": "Mashal Tarigh Tejarat Aria Trading Company",
-      "Year": "2009-2010"
+      "name": "UKRI CDT in NLPS, School of Informatics, University of Edinburgh",
+      "position": "Doctoral Researcher",
+      "url": "https://informatics.ed.ac.uk/ukri-cdt-in-natural-language-processing",
+      "startDate": "September 2021",
+      "endDate": "November/December 2025 (expected)",
+      "highlights": ["Conducting first-of-its-kind research to examine written disfluencies and their relation to nonliteral meaning in a computational psycholinguistics framework"]
     }
   ],
-  "Workshops and Conferences": [
-    "UKRI AI CDTs in NLP Joint Partners’ Summit, Edinburgh (2025) - Poster presenter",
-    "SemDial 28th Workshop, Trento, Italy (2024) - Speaker",
-    "CLASP LSD, Gothenburg, Sweden (2023) - Poster presenter"
+  "volunteer": [
+    {
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+    }
   ],
-  "Awards and Scholarships": [
-    "UKRI CDT in NLP Scholarship, University of Edinburgh, 2021-2025",
-    "Exceptional Talents Award, Shahid Chamran University, 2010"
+  "education": [
+    {
+      "institution": "University of Zurich, Zurich, Switzerland",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "PhD",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    }
   ],
-  "Training, Skills, and Interests": {
-    "Ongoing Training": ["User Experience (UX) Design", "LLM-based Application Development"],
-    "Selected Courses (Ph.D.)": ["Univariate & Multivariate Statistical Modeling in R", "Computer Programming for Speech and Language Processing", "Pragmatics"],
-    "Programming": ["Python", "R", "JavaScript"],
-    "Experimentation & Research": ["Eye-tracking", "self-paced reading", "survey design", "Qualtrics", "E-Prime", "OpenSesame"],
-    "Languages": ["English (Fluent)", "Persian (Native)", "Azerbaijani (Native)", "Turkish (Upper-Intermediate)", "French (A1)", "German (A1)", "Suret (Elementary)"],
-    "Professional Hobbies": ["Photography", "Interior Architecture", "Ceramic Dinnerware & Practical Artifacts Design"]
-  },
-  "Invited Talks": [
-    "CDT Talks, Edinburgh (2024) - Language Model and Human Handling of Written Disfluency and Nonliteral Meaning",
-    "Brain, Cognition, and Development Seminar, Edinburgh (2024) - Written Sarcasm in Online Settings"
+  "awards": [
+    {
+      "title": "Nobel Prize in Physics",
+      "date": "1921-11-01",
+      "awarder": "Royal Swedish Academy of Sciences",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    }
   ],
-  "Volunteering and Community Service": [
-    "SEKHAVAT Coordination Center for the Benefactors of Urmia (2018-2021)",
-    "Omid Hospital, Urmia (2013-2015)"
+  "certificates": [
+    {
+      "name": "Machine Learning",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Quantum Computing",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Quantum Information",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-envelope"
+    },
+    {
+      "name": "Quantum Cryptography",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Quantum Communication",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "Quantum Teleportation",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-clipboard-check"
+    }
   ],
-  "Community Engagement": [
-    "Interdisciplinary Writing Retreat for Doctoral Researchers, University of Edinburgh (2024)",
-    "Nature Retreats at Firbush (2022-2023)",
-    "Informatics Postgraduate Walk + Picnic (2023)",
-    "AMLaP Volunteer (2024)"
+  "publications": [
+    {
+      "name": "Zur Elektrody/namik bewegter Körper",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-06-30",
+      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+    },
+    {
+      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-03-18",
+      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
+      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+    },
+    {
+      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1916-03-20",
+      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
+      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+    }
   ],
-  "Research Trajectory Note": [
-    "Gap in Academic Training: I took a gap in my academic trajectory to care for my mother during an extended period of cancer treatment. This experience deepened my commitment to compassion, presence, and meaningful work. I returned to research with greater focus, resilience, and clarity of purpose.",
-    "Reason Behind Field Changes: Each step in my academic path reflects the evolving questions I have pursued; moving from literature and meaning, to psychology and emotional communication, to computational modeling. These were deliberate expansions, chosen to extend my training and better equip me for the complexity of the questions I aim to answer. I believe this multidimensional background makes me a more informed and versatile researcher."
+  "skills": [
+    {
+      "name": "Physics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    }
   ],
-  "References": [
-    "Prof. Martin Corley, School of PPLS, University of Edinburgh (Email available upon request)",
-    "Dr. Patrick Sturt, School of PPLS, University of Edinburgh (Email available upon request)",
-    "Prof. Walid Magdy, School of Informatics, University of Edinburgh (Email available upon request)",
-    "Dr. Daniel Mirman, School of PPLS, University of Edinburgh (Email available upon request)",
-    "Dr. Mostafa Zarean, Department of Psychology, University of Tabriz (Email available upon request)"
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Physics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    },
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    }
   ]
 }
+
