@@ -59,7 +59,7 @@ category: fun
     </div>
 </div>
 <div class="caption">
-    Top row – Left: sunset, Holyrood Rd. Right: sunset, Grassmarket. Middle row – Left: sunrise, University of Tabriz. Right: sunset, Black Esk Reservoir. Bottom row – Left: sunset, Arlanda Airport. Righ: sunset, Piazza Re Enzo.
+    Top row – Left: sunset, Holyrood Rd. Right: sunset, Grassmarket. | Middle row – Left: sunrise, University of Tabriz. Right: sunset, Black Esk Reservoir. | Bottom row – Left: sunset, Arlanda Airport. Righ: sunset, Piazza Re Enzo.
 </div>
 
 
