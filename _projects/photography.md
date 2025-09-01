@@ -31,6 +31,14 @@ category: fun
 <div class="caption">
     Apple orchards basking in the summer sunshine in Qasemlu Valley in Urmia.
 </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ardteatle.jpeg" title="view from Duncan Ban Macintyre Monument" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Looking over Ardteatle and Lock Awe.
+</div>
 
 **I'm always fascinated by sunrises and sunsets.**
 
