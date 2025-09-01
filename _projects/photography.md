@@ -55,11 +55,11 @@ category: fun
         {% include figure.liquid path="assets/img/gunbatstockholm.jpeg" title="sunset Stockholm" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/gunbabologna.jpeg" title="sunset Bologna" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/gunbatbologna.jpeg" title="sunset Bologna" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Left: sunrise, University of Tabriz. Right: sunset, Black Esk Reservoir.
+    Top row – Left: sunset, Holyrood Rd. Right: sunset, Grassmarket. Middle row – Left: sunrise, University of Tabriz. Right: sunset, Black Esk Reservoir. Bottom row – Left: sunset, Arlanda Airport. Righ: sunset, Piazza Re Enzo.
 </div>
 
 
