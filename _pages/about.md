@@ -14,7 +14,6 @@ subtitle: >
   <br>
   <strong><a href='/assets/pdf/AidaTarighat_CV.pdf'>📑 CV</a></strong>
 
-
 profile:
   align: right
   image: front.jpeg
@@ -44,7 +43,7 @@ My path into disfluency research began during my General Psychology dissertation
 
 ---
 
-## 🔎 Research directions:
+## 🔎 research directions
 
 - **predictive processing**
 - **pragmatic variability**
