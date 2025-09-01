@@ -12,7 +12,7 @@ subtitle: >
   <br>
   <span><strong>Computational Psycholinguistics & NLP</strong></span>
   <br>
-  <a href='/assets/pdf/AidaTarighatCV.pdf' target='_blank'><strong>📄 CV</strong></a>
+  <a href='/assets/pdf/AidaTarighat_CV.pdf' target='_blank'><strong>📄 CV</strong></a>
 
 
 profile:
