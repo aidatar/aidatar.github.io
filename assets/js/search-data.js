@@ -391,7 +391,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-presented-my-fourth-and-final-annual-review-poster-at-the-ukri-ai-cdts-in-nlp-joint-partners-summit-edinburgh-2025",
+            },},{id: "news-i-presented-my-fourth-and-final-annual-review-poster-at-the-ukri-ai-cdts-in-nlp-joint-partners-summit-in-edinburgh",
           title: 'I presented my fourth and final annual review poster at the UKRI AI...',
           description: "",
           section: "News",},{id: "news-i-m-pleased-to-share-that-i-passed-my-fourth-and-final-anual-review-with-very-good",
@@ -402,7 +402,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-multilingual-disfluencies",
           title: 'Multilingual Disfluencies',
-          description: "Collaboration with Julian Hough on multilingual disfluencies using DUEL and deep_disfluency.",
+          description: "Collaboration with Julian Hough on multilingual disfluencies using DUEL and STIR/deep_disfluency.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/julian_disfluencies/";
             },},{id: "projects-persian-j-soap-ii-interview-package",
