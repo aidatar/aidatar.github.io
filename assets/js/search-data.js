@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
-          title: "cv",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/assets/pdf/AidaTarighat_CV.pdf";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "publications",
           description: "NB, my official records list my full name as Fatemeh Samadzadeh Tarighat; however, I currently publish under Aida Tarighat.",
           section: "Navigation",
