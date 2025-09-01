@@ -410,8 +410,8 @@ ninja.data = [{
           description: "Curation of a Persian version of J-SOAP-II for assessing juvenile sex offenders.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/persian_jsoap/";
-            },},{id: "projects-photography",
-          title: 'Photography',
+            },},{id: "projects-give-me-the-camera",
+          title: 'Give me the camera.',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/photography/";
