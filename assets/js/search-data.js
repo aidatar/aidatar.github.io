@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "NB: my official records list my full name as Fatemeh Samadzadeh Tarighat; however, I currently publish under Aida Tarighat.This list includes work in preparation, peer-reviewed papers, abstracts, and posters.",
+          description: "NB: my official records list my full name as Fatemeh Samadzadeh Tarighat; however, I currently publish under Aida Tarighat.  This list includes work in preparation, peer-reviewed papers, abstracts, and posters.    WIP icon © Work in progress icons created by Freepik - Flaticon",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -392,13 +392,13 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-i-presented-my-fourth-and-final-annual-review-poster-at-the-ukri-ai-cdts-in-nlp-joint-partners-summit-in-edinburgh",
-          title: '📊 I presented my fourth and final annual review poster at the UKRI...',
+          title: 'I presented my fourth and final annual review poster at the UKRI AI...',
           description: "",
           section: "News",},{id: "news-i-m-pleased-to-share-that-i-passed-my-fourth-and-final-anual-review-with-very-good",
-          title: '🌟 I’m pleased to share that I passed my fourth and final anual...',
+          title: 'I’m pleased to share that I passed my fourth and final anual review...',
           description: "",
           section: "News",},{id: "news-i-will-give-an-oral-presentation-of-our-latest-work-at-the-british-psychological-society-scottish-branch-postgraduate-annual-conference-2025-in-late-september",
-          title: '🎤 I will give an oral presentation of our latest work at the...',
+          title: 'I will give an oral presentation of our latest work at the British...',
           description: "",
           section: "News",},{id: "projects-multilingual-disfluencies",
           title: 'Multilingual Disfluencies',
