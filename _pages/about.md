@@ -12,7 +12,7 @@ subtitle: >
   <br>
   <span><strong>Computational Psycholinguistics & NLP</strong></span>
   <br>
-  <a href='/assets/pdf/AidaTarighat_CV.pdf' target='_blank'><strong>📄 CV</strong></a>
+  <strong><a href='/assets/pdf/AidaTarighat_CV.pdf'>📑 CV</a></strong>
 
 
 profile:
@@ -44,7 +44,7 @@ My path into disfluency research began during my General Psychology dissertation
 
 ---
 
-🧭 Research directions:
+## 🔎 Research directions:
 
 - **predictive processing**
 - **pragmatic variability**
@@ -53,6 +53,6 @@ My path into disfluency research began during my General Psychology dissertation
 - **context-aware AI evaluation**
 - **multimodal integration**
 - **multilingual variation**
-
+ 
 ---
 
