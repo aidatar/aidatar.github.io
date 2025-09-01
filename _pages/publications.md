@@ -9,7 +9,6 @@ description: >
   </strong><br><br>
   WIP icon © <a href="https://www.flaticon.com/free-icons/work-in-progress" title="work in progress icons">Work in progress icons created by Freepik - Flaticon</a>
 nav: true
-nav: true
 nav_order: 1
 ---
 
