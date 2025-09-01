@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "NB, my official records list my full name as Fatemeh Samadzadeh Tarighat; however, I currently publish under Aida Tarighat.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -411,7 +411,7 @@ ninja.data = [{
           title: 'Multilingual Disfluencies',
           description: "Collaboration with Julian Hough on multilingual disfluencies using DUEL and STIR/deep_disfluency.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/julian_disfluencies/";
+              window.location.href = "/projects/ml_disfluencies/";
             },},{id: "projects-persian-j-soap-ii-interview-package",
           title: 'Persian J-SOAP-II Interview Package',
           description: "Curation of a Persian version of J-SOAP-II for assessing juvenile sex offenders.",
