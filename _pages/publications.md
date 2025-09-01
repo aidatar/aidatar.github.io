@@ -16,12 +16,15 @@ nav_order: 1
 <div class="publications">
 
 ## Journal & Conference Papers
+
 {% bibliography --file papers %}
 
 ## Book Chapters
+
 {% bibliography --file chapters %}
 
 ## Abstracts & Posters
+
 {% bibliography --file abstracts %}
 
 </div>
