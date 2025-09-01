@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "NB: my official records list my full name as Fatemeh Samadzadeh Tarighat; however, I currently publish under Aida Tarighat.  This list includes work in preparation, peer-reviewed papers, abstracts, and posters.",
+          description: "NB: my official records list my full name as Fatemeh Samadzadeh Tarighat; however, I currently publish under Aida Tarighat.  This list includes work in preparation, peer-reviewed papers, abstracts, and posters. WIP icon © Work in progress icons created by Freepik - Flaticon",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
