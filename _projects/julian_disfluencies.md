@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Multilingual Disfluencies"
-description: "Collaboration with Julian Hough on multilingual disfluencies using DUEL and deep_disfluency."
+description: "Collaboration with Julian Hough on multilingual disfluencies using DUEL and STIR/deep_disfluency."
 img: /assets/img/translation.png
 importance: 1
 category: work
