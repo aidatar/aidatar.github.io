@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: NB, my official records list my full name as Fatemeh Samadzadeh Tarighat; however, I currently publish under Aida Tarighat.
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
