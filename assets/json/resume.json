@@ -1,26 +1,36 @@
 {
   "basics": {
-    "name": "Aida Tarighat",
-    "label": "Final-year Doctoral Researcher",
+    "name": "Albert Einstein",
+    "label": "Scientist",
     "image": "",
-    "summary": "Final-year doctoral candidate in the UKRI CDT in NLP at the University of Edinburgh, working at the intersection of computational psycholinguistics, cognitive science, and NLP. Research combines behavioral experiments, corpus analysis, and computational modeling to investigate written disfluencies, predictive processing, and context-aware dialogue systems. Methods: Eye-tracking, self-paced reading, survey design, R, Python. Applications: Conversational AI, e-mental health, education tech.",
-    "location": "Edinburgh, UK",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "Aida Tarighat",
-        "url": "https://www.linkedin.com/in/f-a-s-tarighat"
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
       }
     ]
   },
   "work": [
     {
-      "name": "UKRI CDT in NLPS, School of Informatics, University of Edinburgh",
-      "position": "Doctoral Researcher",
-      "url": "https://informatics.ed.ac.uk/ukri-cdt-in-natural-language-processing",
-      "startDate": "September 2021",
-      "endDate": "November/December 2025 (expected)",
-      "highlights": ["Conducting first-of-its-kind research to examine written disfluencies and their relation to nonliteral meaning in a computational psycholinguistics framework"]
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
     }
   ],
   "volunteer": [
@@ -188,4 +198,3 @@
     }
   ]
 }
-
