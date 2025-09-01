@@ -43,7 +43,7 @@ My path into disfluency research began during my General Psychology dissertation
 
 ---
 
-## 🔎 research directions
+## research directions
 
 - **predictive processing**
 - **pragmatic variability**
