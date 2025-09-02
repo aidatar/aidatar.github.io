@@ -11,7 +11,7 @@ nav_order: 1
 
 <p>
   <strong>
-    NB: my official records list my full name as Fatemeh Samadzadeh Tarighat; however, I currently publish under Aida Tarighat.<br><br>
+    N.B.: my official records list my full name as Fatemeh Samadzadeh Tarighat; however, I currently publish under Aida Tarighat.<br><br>
     This list includes work in preparation, peer-reviewed papers, abstracts, posters, and talks.
   </strong>
 </p>
