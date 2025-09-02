@@ -70,10 +70,10 @@ category: fun
 ### sunrise and sunset
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-6.5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/gundog.jpeg" title="sunrise Tabriz" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-6.5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/gunbat.jpeg" title="sunset Moffat hills" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
