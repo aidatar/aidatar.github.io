@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: NB, my official records list my full name as Fatemeh Samadzadeh Tarighat; however, I currently publish under Aida Tarighat.
+description:
 nav: true
 nav_order: 1
 ---
@@ -16,8 +16,8 @@ nav_order: 1
   </strong>
 </p>
 
-<p style="font-size: small; color: gray;">
-  WIP icon © <a href="https://www.flaticon.com/free-icons/work-in-progress" title="work-in-progress icons">Work-in-progress icons created by Aranagraphics - Flaticon</a>
+<p style="font-size: small">
+  <a href="https://www.flaticon.com/free-icons/work-in-progress" title="work-in-progress icons">Work-in-progress icons created by Aranagraphics - Flaticon</a>
 </p>
 
 <!-- Bibsearch Feature -->
