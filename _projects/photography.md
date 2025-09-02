@@ -44,7 +44,7 @@ category: fun
     </div>
 </div>
 <div class="caption">
-    Top row – Left: sunset in the backyard in Tabriz. Right: after morning drizzle in the Meadows. | Bottom row – Our quiet neighbor hard at work in Todshawill.
+    Top row – Left: sunset in the backyard in Tabriz. Right: morning in the Meadows. | Bottom row – Our quiet neighbor hard at work in Todshawill.
 </div>
 
 ### views
