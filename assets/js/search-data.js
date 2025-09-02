@@ -34,12 +34,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-multilingual-disfluencies",
           title: 'Multilingual Disfluencies',
-          description: "Collaboration with Julian Hough on multilingual disfluencies using DUEL and STIR/deep_disfluency.",
+          description: "UPCOMING - Collaboration with Julian Hough on multilingual disfluencies using DUEL and STIR/deep_disfluency.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ml_disfluencies/";
             },},{id: "projects-persian-j-soap-ii-interview-package",
           title: 'Persian J-SOAP-II Interview Package',
-          description: "Curation of a Persian version of J-SOAP-II for assessing juvenile sex offenders.",
+          description: "ARCHIVED - Curation of a Persian version of J-SOAP-II for assessing juvenile sex offenders.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/persian_jsoap/";
             },},{id: "projects-give-me-the-camera",
