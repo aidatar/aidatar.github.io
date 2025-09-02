@@ -9,6 +9,8 @@ category: fun
 
 **I've been an avid amateur photographer since high school.**
 
+## early digitals
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/garga.jpg" title="garga" class="img-fluid rounded z-depth-1" %}
@@ -21,8 +23,77 @@ category: fun
     </div>
 </div>
 <div class="caption">
-    Very old shots, from left to right: traces of a crow on snow in Urmia – life goes on in the ruins of the Byzantine hospital in Side – spring gradually takes over Mangasht in Baghmalek
+    Very old shots, from left to right: traces of a crow on snow in Urmia – life goes on in the ruins of the Byzantine hospital in Side – spring gradually takes over Mangasht in Baghmalek.
 </div>
+
+## doğa
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/danesh.jpeg" title="sari" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/gs.jpeg" title="bahar" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/wp.jpeg" title="sinix" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Recent shots, from left to right:  –  – .
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/argyll.jpeg" title="gover" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/gobal.jpeg" title="mushroom" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/heriot.jpeg" title="mor ve otesi" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    From left to right:  –  – .
+</div>
+
+### traces
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ayaq.jpeg" title="basma" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/todsha.jpeg" title="neighbor" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/dashgarga.jpeg" title="stuck" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    From left to right:  –  – .
+</div>
+
+### snow
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/tabrizgis.jpeg" title="campus" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/meadows.jpeg" title="buz" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/scottcrow.jpeg" title="still walking" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    From left to right:  –  – .
+</div>
+
+### views
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/qasimli.jpeg" title="Qasimli dere" class="img-fluid rounded z-depth-1" %}
@@ -40,7 +111,7 @@ category: fun
     Looking over Ardteatle and Lock Awe.
 </div>
 
-**I'm always fascinated by sunrises and sunsets.**
+## sunrises and sunsets
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
