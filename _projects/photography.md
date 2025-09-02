@@ -31,64 +31,43 @@ category: fun
 ## doğa
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/danesh.JPG" title="sari" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/gobal.jpeg" title="mushroom" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/wp.jpeg" title="sinix" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/argyll.jpeg" title="yassari" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-
-<div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/heriot.jpeg" title="mor ve otesi" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/wp.jpeg" title="sinix" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    From left to right:  –  – .
-</div>
-
-
-### traces
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/todsha.jpeg" title="neighbor" class="img-fluid rounded z-depth-1" %}
     </div>
+<div class="caption">
+    From left to right:  –  – .
+</div>
+
+### trace
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ayaq.jpeg" title="basma" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dashgarga.jpeg" title="stuck" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 <div class="caption">
     From left to right:  –  – .
 </div>
 
-
 ### snow
 
-
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tabrizgis.JPG" title="campus" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/scotgarga.jpeg" title="still walking" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -115,7 +94,7 @@ category: fun
     Looking over Ardteatle and Lock Awe.
 </div>
 
-## sunrises and sunsets
+## sunrise and sunset
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
