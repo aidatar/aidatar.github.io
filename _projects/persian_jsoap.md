@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Persian J-SOAP-II Interview Package"
-description: "Curation of a Persian version of J-SOAP-II for assessing juvenile sex offenders."
+description: "ARCHIVED - Curation of a Persian version of J-SOAP-II for assessing juvenile sex offenders."
 img: /assets/img/depression.png
 importance: 2
 category: work
