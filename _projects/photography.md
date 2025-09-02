@@ -30,28 +30,28 @@ category: fun
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/danesh.jpeg" title="sari" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/danesh.JPG" title="sari" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/gs.jpeg" title="bahar" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/wp.jpeg" title="sinix" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Recent shots, from left to right:  –  – .
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/argyll.jpeg" title="gover" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/wp.jpeg" title="sinix" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/argyll.jpeg" title="yassari" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/heriot.jpeg" title="mor ve otesi" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/gobal.jpeg" title="mushroom" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/heriot.jpeg" title="mor ve otesi" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -59,13 +59,14 @@ category: fun
 </div>
 
 ### traces
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/todsha.jpeg" title="neighbor" class="img-fluid rounded z-depth-1" %}
+    </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ayaq.jpeg" title="basma" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/todsha.jpeg" title="neighbor" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/dashgarga.jpeg" title="stuck" class="img-fluid rounded z-depth-1" %}
@@ -79,13 +80,10 @@ category: fun
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tabrizgis.jpeg" title="campus" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/tabrizgis.JPG" title="campus" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/meadows.jpeg" title="buz" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/scottcrow.jpeg" title="still walking" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/scotgarga.jpeg" title="still walking" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
