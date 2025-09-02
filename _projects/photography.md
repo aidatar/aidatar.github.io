@@ -44,14 +44,6 @@ category: fun
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/gunbatholyrood.jpeg" title="sunset Holyrood" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/gunbatgrassmarket.jpeg" title="sunset Grassmarket" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/gundog.jpeg" title="sunrise Tabriz" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -67,7 +59,7 @@ category: fun
     </div>
 </div>
 <div class="caption">
-    Top row – Left: sunset, Holyrood Rd. Right: sunset, Grassmarket. | Middle row – Left: sunrise, University of Tabriz. Right: sunset, Black Esk Reservoir. | Bottom row – Left: sunset, Arlanda Airport. Righ: sunset, Piazza Re Enzo.
+    Top row – Left: sunrise, University of Tabriz. Right: sunset, Black Esk Reservoir. | Bottom row – Left: sunset, Arlanda Airport. Righ: sunset, Piazza Re Enzo.
 </div>
 
 
