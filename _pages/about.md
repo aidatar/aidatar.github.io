@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <strong>/Eye-dah Tah-ree-gat/</strong>
+  <span>/Eye-dah Tah-ree-gat/</span>
   <br>
   <span>
     <strong>
