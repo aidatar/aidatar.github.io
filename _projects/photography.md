@@ -9,6 +9,7 @@ category: fun
 
 **I've been an avid amateur photographer since high school.**
 
+
 ## early digitals
 
 <div class="row">
@@ -26,6 +27,7 @@ category: fun
     Very old shots, from left to right: traces of a crow on snow in Urmia – life goes on in the ruins of the Byzantine hospital in Side – spring gradually takes over Mangasht in Baghmalek.
 </div>
 
+
 ## doğa
 
 <div class="row">
@@ -33,42 +35,44 @@ category: fun
         {% include figure.liquid loading="eager" path="assets/img/danesh.JPG" title="sari" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gs.jpeg" title="bahar" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/gobal.jpeg" title="mushroom" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/wp.jpeg" title="sinix" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/argyll.jpeg" title="yassari" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/heriot.jpeg" title="mor ve otesi" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gobal.jpeg" title="mushroom" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/wp.jpeg" title="sinix" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     From left to right:  –  – .
 </div>
 
+
 ### traces
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/todsha.jpeg" title="neighbor" class="img-fluid rounded z-depth-1" %}
     </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ayaq.jpeg" title="basma" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/dashgarga.jpeg" title="stuck" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -76,7 +80,9 @@ category: fun
     From left to right:  –  – .
 </div>
 
+
 ### snow
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
