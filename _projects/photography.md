@@ -64,7 +64,7 @@ category: fun
     </div>
 </div>
 <div class="caption">
-    Overlooking Ardteatle and Lock Awe.
+    Overlooking Ardteatle and Loch Awe.
 </div>
 
 ### sunrise and sunset
