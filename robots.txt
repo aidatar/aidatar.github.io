@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aidatar.github.io//sitemap.xml
+Sitemap: https://aidakoosha.github.io//sitemap.xml
