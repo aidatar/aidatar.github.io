@@ -5,7 +5,7 @@ title: cv
 nav: false
 nav_order: 1
 cv_pdf: AidaTarighat_CV.pdf # you can also use external links here
-description: 
+description:
 toc:
   sidebar: left
 ---

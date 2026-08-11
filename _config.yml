@@ -4,11 +4,11 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Aida
-middle_name: 
+middle_name:
 last_name: Tarighat
 contact_note: >
   I'm always happy to discuss research ideas and collaborations, though I may not be able to reply to everyone.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"  
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

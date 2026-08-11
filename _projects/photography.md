@@ -1,14 +1,13 @@
 ---
 layout: page
 title: "Give me the camera."
-description: 
+description:
 img: /assets/img/kelebek.jpg
 importance: 1
 category: fun
 ---
 
 **I've been an avid amateur photographer since high school.**
-
 
 ### early digitals
 
@@ -89,5 +88,3 @@ category: fun
 <div class="caption">
     Top row – Left: sunrise, University of Tabriz. Right: sunset, Black Esk Reservoir. | Bottom row – Left: sunset, Arlanda Airport. Right: sunset, Piazza Re Enzo.
 </div>
-
-
